@@ -73,7 +73,7 @@ Die Verarbeitung eines Nutzungsbericht kann aktuell zwei Zustände aufweisen
   - Limitierung auf Nutzungsberichtverarbeitung im Status "Failed"
 
   
-#Formular-Design	
+# Formular-Design	
 Die Aufgabenstellung zuvor hat den primären Fokus auf entsprechend Backend-Entwicklungen, die nächste Herausforderung beschäftigt sich mit primärer Frontend-Entwicklung im Bereich eines Formulars. Bitte erstelle ein Formular mit den folgenden Feldern und berücksichtige auch eine responsive Darstellung. Du kannst natürlich bestehende Frameworks und Libraries verwenden, bitte dokumentiere nur welche und warum. (M) steht für mandatory und (O) für Optional. Styling ist Dir überlassen. Simple und Clean stehen im Vordergrund.
 
 * Vorname (M)
@@ -91,7 +91,7 @@ Die Aufgabenstellung zuvor hat den primären Fokus auf entsprechend Backend-Entw
 
 
 
-#Architektonische Gedanken
+# Architektonische Gedanken
 Die vorigen Abschnitte haben sich mit generellen Modellierungs- und Umsetzungsaspekten beschäftigt. Wir möchten nun diesen Abschnitt nutzen um Deinen Input bezüglich einer möglichen System-Architektur und weiteren Aspekten zu erhalten. Natürlich ist es auf Basis der zuvor erwähnten Beispiele schwierig in komplette Architektur aufzustellen und zu definieren, aber uns geht es eher darum wie Du generell die Gesamtarchitektur und weitere Entwicklungspraktiken platzieren würdest. 
 
 Siehst Du dieses Szenario eher in der Cloud, falls ja, welche Cloud-Dienste würdest du hier heranziehen, falls nein, wie würdest du vorgehen? Wie gehts du generell mit Non-Functional Requirements um. Was bedeute für Dich DevOps und welche QA-Praktiken sind für die Essentiell. In welchen Frontend und Backend-TechStack würdest du commonsun und deren Lösungen sehen?
