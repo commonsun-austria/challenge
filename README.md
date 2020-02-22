@@ -6,7 +6,7 @@ Der Ansatz den wir dabei verfolgen ist vor allem Mehrparteienhäuser (z.B. Zinsh
 
 Photovoltaikanlagen alleine lösen allerdings nicht das Problem (Klimawandel, mehr erneuerbare Energien, etc.). Hierfür benötigt es zusätzlich die Nutzbarmachung von SmartMeter Daten. Zum einen wollen wir unseren Kunden volle Transparenz geben und ihnen zeigen was ihr Investment oder ihr Verbrauch von grüner Energie bewirkt. Zum anderen ist es wichtig die Funktionen von SmartMeter voll zu nutzen und die gesammelten Daten auszuwerten, um zukünftig die Planung und den Ausbau von erneuerbaren Energien leichter und kostengünstiger zu machen.
 
-#Modellierung
+# Modellierung
 Unser Geschäftsmodell und dessen Prozesse in Kombination mit den dazugehörigen Softwarelösungen müssen daher auf einem aus­ge­klü­gelt und wartbaren Datenmodell aufbauen. Wir möchte ein realitätsnahes commonnsun Beispiel hernehmen um Deine Modellierungsexpertise miteinfliessen zu lassen. 
 
 ## Szenario
@@ -19,7 +19,7 @@ Nun soll es z.B. ermöglicht werden auf Mieter und weiters auch auf Hausbasis Nu
 
 Diese Szenario versucht grob die primären Business-Bausteine abzubilden. Überlege Dir ein mögliches Datenmodell, welches versucht die zuvor beschriebenen Abhängigkeiten abzubilden.
 
-#Schnittstellen
+# Schnittstellen
 In diesem Beispiel geht es darum ein paar Schnittstelle zu definieren und weiters die Business-Logik dahinter zu implementieren. Bitte entwerfe Dein Design der REST-API, mögliche Datenabhängigkeiten, kommentiere Deine Tätigkeiten (code level, Git commits), so wie Du es sonst auch machen würdest... Du kannst natürlich bestehende Frameworks und Libraries verwenden, bitte dokumentiere nur Welche und warum.
 
 ## Szenario
